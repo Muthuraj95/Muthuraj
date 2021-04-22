@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+      <class name="junit.TestNG1">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:junit.TestNG1@53b32d7]" name="beforesuite" is-config="true" duration-ms="15" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:junit.TestNG1@53b32d7]" name="beforeclass" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:junit.TestNG1@53b32d7]" name="beforetest" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:junit.TestNG1@53b32d7]" name="after" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:junit.TestNG1@53b32d7]" name="test1" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:junit.TestNG1@53b32d7]" name="before" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:junit.TestNG1@53b32d7]" name="before" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:junit.TestNG1@53b32d7]" name="test2" duration-ms="15" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:junit.TestNG1@53b32d7]" name="after" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:junit.TestNG1@53b32d7]" name="test3" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:junit.TestNG1@53b32d7]" name="before" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:junit.TestNG1@53b32d7]" name="afterclass" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="after()[pri:0, instance:junit.TestNG1@53b32d7]" name="after" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:junit.TestNG1@53b32d7]" name="aftertest" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:junit.TestNG1@53b32d7]" name="aftersuite" is-config="true" duration-ms="0" started-at="2021-04-21T02:05:29Z" finished-at="2021-04-21T02:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- junit.TestNG1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
